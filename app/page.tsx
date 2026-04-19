@@ -307,7 +307,7 @@ export default function Home() {
                   { name: "LinkedIn", handle: "ashishpanwar", url: "https://www.linkedin.com/in/designwithashi/" },
                   { name: "Instagram", handle: "heykashoo", url: "https://www.instagram.com/heykashoo?igsh=ejFhenR0cmV5Y2gz&utm_source=qr" },
                   { name: "Dribbble", handle: "@ashish", url: "https://dribbble.com/designwithashi" },
-                  { name: "Link", handle: "ashishpanwar", url: "https://www.linkedin.com/in/designwithashi/" },
+                  /* { name: "Link", handle: "ashishpanwar", url: "https://www.linkedin.com/in/designwithashi/" }, */
                 ].map((social) => (
                   <Link
                     key={social.name}
